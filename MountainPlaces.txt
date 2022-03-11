@@ -1,2 +1,7 @@
 Val di Funes
+<<<<<<< HEAD
 Livigno
+=======
+Carpegna
+Val di Sole
+>>>>>>> b33889a20708fc4fcdb59dfd5e360afb104219a9
